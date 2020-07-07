@@ -1,4 +1,4 @@
-*Delete a value from kth indexfrom the array shift all other value to left .And print the whole array*/
+/*Delete a value from kth indexfrom the array shift all other value to left .And print the whole array*/
 
 #include<stdio.h>
 int main()
