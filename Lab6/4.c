@@ -1,3 +1,6 @@
+/*Use Dynamic Memory Allocation to create three elements of the linked list and display the complete linked list using a function.
+*/
+
 #include<stdio.h>
 #include<stdlib.h>
 
